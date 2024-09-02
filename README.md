@@ -1,8 +1,7 @@
 ## Hi there 👋
-
+<img src="{[BadgeURLHere(https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)}"] telegram.org/kristrex/>
 <!--
 **kristrex/kristrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="{[BadgeURLHere(https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)}"] telegram.org/kristrex/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
