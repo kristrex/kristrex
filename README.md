@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning Go, SQL, Docker
 - 💬 Ask me about anything related to Go
--  ⚡ Fun fact: I like to box🥊 and play football⚽
 
 <img src="https://github.com/user-attachments/assets/30a4c76f-6d98-4308-a387-e5cb74ec07ee" alt="Logo postgres" width="70" height = "70">
 <img src="https://github.com/user-attachments/assets/aa3b07c9-76b9-449e-a480-7f4cc4c9e090" alt="Logo docker" width="70" height = "70">
