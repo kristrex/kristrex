@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/user-attachments/assets/1cb31a75-5c53-4a8e-a807-70f92209551f)
 ## Hi there 👋
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kristrex)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bystrov_yar)
 
 - 🌱 I’m currently learning Go, SQL, Docker
 - 💬 Ask me about anything related to Go
