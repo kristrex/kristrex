@@ -10,11 +10,14 @@
   Observability: OpenTelemetry, Jaeger, Prometheus, Grafana, ELK.
   Key Expertise: Performance optimization, distributed system reliability.
 - 📫 How to reach me: Telegram: @bystrov_yar or kristrexx@gmail.com.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/30a4c76f-6d98-4308-a387-e5cb74ec07ee" alt="Logo postgres" width="70" height="70">&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/aa3b07c9-76b9-449e-a480-7f4cc4c9e090" alt="Logo docker" width="70" height="70">&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/25b4b49c-dc65-4f08-b9c7-e4d5ca8eca61" alt="Logo Go" width="70" height="70">
-</p>
+
+<table align="center" border="0">
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/30a4c76f-6d98-4308-a387-e5cb74ec07ee" alt="Logo postgres" width="70"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/aa3b07c9-76b9-449e-a480-7f4cc4c9e090" alt="Logo docker" width="70"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/25b4b49c-dc65-4f08-b9c7-e4d5ca8eca61" alt="Logo Go" width="70"></td>
+  </tr>
+</table>
 
 <!--
 **kristrex/kristrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
